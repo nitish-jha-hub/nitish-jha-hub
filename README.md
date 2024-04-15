@@ -40,8 +40,11 @@
 <div>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitish-jha-hub&layout=compact&theme=vision-friendly-dark" alt="GitHub Streak" /></a>
 </div>
-<div>
+<!-- <div>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitish-jha-hub&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div> -->
+
+<div>
 </div>
 
 
